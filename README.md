@@ -1,3 +1,1 @@
-﻿# Setting and Picons by Gioppygio
-    
- Software: E-Channelizer         
+﻿# Setting and Picons by Gioppygio 
